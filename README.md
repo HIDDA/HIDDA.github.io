@@ -1,9 +1,11 @@
-These web pages contain data sets and replication code from the HIDDA.
+These web pages provide supplementary material for the
+*Handbook of Infectious Disease Data Analysis* (HIDDA).
 
-## R package HIDDA
+## The R package `HIDDA.forecasting`
 
-The R package **HIDDA** contains data sets and replication code from the HIDDA. The analyses are provided in chapter-specific vignettes, see the [online documentation of the HIDDA package](pkg/).
-
-## Figures
-
-## Errata
+The chapter "Forecasting Based on Surveillance Data"
+by Leonhard Held and Sebastian Meyer features a supplementary R package
+**HIDDA.forecasting**, which provides the data and code to
+reproduce results from the two applications presented in that chapter.
+The package and its documentation is available at
+https://github.com/HIDDA/forecasting.
