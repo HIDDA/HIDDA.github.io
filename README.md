@@ -2,12 +2,33 @@ This website gathers author-created supplementary material for the
 [*Handbook of Infectious Disease Data Analysis*](https://www.crcpress.com/Handbook-of-Infectious-Disease-Data-Analysis/Held-Hens-ONeill-Wallinga/p/book/9781138626713)
 published by Chapman & Hall/CRC (2019).
 
-## The R package HIDDA.forecasting
 
-The chapter "Forecasting Based on Surveillance Data"
-([preprint](https://arxiv.org/abs/1809.03735))
-by Leonhard Held and Sebastian Meyer features a supplementary R package
-**HIDDA.forecasting**. It provides the data and code to
-reproduce results from the two applications presented in that chapter.
+## Forecasting Based on Surveillance Data
+
+Authors: Leonhard Held and Sebastian Meyer
+
+Preprint: <https://arxiv.org/abs/1809.03735>
+
+The supplementary R package **HIDDA.forecasting**
+provides the data and code to reproduce results
+from the two applications presented in that chapter.
 The package and its documentation is available at
 <https://HIDDA.github.io/forecasting/>.
+
+
+## Iterated Filtering Methods for Markov Process Epidemic Models
+
+Author: Theresa Stocks
+
+Preprint: <https://arxiv.org/abs/1712.03058>
+
+Replication code: <https://github.com/theresasophia/chapter_IFmethods>
+
+
+## Prospective Detection of Outbreaks
+
+Authors: Benjamin Allévius and Michael Höhle
+
+Preprint: <https://arxiv.org/abs/1711.08960>
+
+Replication code: <https://github.com/BenjaK/ProspectiveDetectionChapter>
