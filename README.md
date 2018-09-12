@@ -4,26 +4,27 @@ published by Chapman & Hall/CRC (2019).
 
 
 ### Forecasting Based on Surveillance Data
-#### by Leonhard Held and Sebastian Meyer
 
-Preprint: <https://arxiv.org/abs/1809.03735>
+by Leonhard Held and Sebastian Meyer
 
-R package **HIDDA.forecasting**: <https://HIDDA.github.io/forecasting>
+* Preprint: <https://arxiv.org/abs/1809.03735>
+
+* R package **HIDDA.forecasting**: <https://HIDDA.github.io/forecasting>
 
 
 ### Iterated Filtering Methods for Markov Process Epidemic Models
 
-Author: Theresa Stocks
+by Theresa Stocks
 
-Preprint: <https://arxiv.org/abs/1712.03058>
+* Preprint: <https://arxiv.org/abs/1712.03058>
 
-Replication code: <https://github.com/theresasophia/chapter_IFmethods>
+* Replication code: <https://github.com/theresasophia/chapter_IFmethods>
 
 
 ### Prospective Detection of Outbreaks
 
-Authors: Benjamin Allévius and Michael Höhle
+by Benjamin Allévius and Michael Höhle
 
-Preprint: <https://arxiv.org/abs/1711.08960>
+* Preprint: <https://arxiv.org/abs/1711.08960>
 
-Replication code: <https://github.com/BenjaK/ProspectiveDetectionChapter>
+* Replication code: <https://github.com/BenjaK/ProspectiveDetectionChapter>
