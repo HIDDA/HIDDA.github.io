@@ -3,20 +3,15 @@ This website gathers author-created supplementary material for the
 published by Chapman & Hall/CRC (2019).
 
 
-## Forecasting Based on Surveillance Data
-
-Authors: Leonhard Held and Sebastian Meyer
+### Forecasting Based on Surveillance Data
+#### by Leonhard Held and Sebastian Meyer
 
 Preprint: <https://arxiv.org/abs/1809.03735>
 
-The supplementary R package **HIDDA.forecasting**
-provides the data and code to reproduce results
-from the two applications presented in that chapter.
-The package and its documentation is available at
-<https://HIDDA.github.io/forecasting/>.
+R package **HIDDA.forecasting**: <https://HIDDA.github.io/forecasting>
 
 
-## Iterated Filtering Methods for Markov Process Epidemic Models
+### Iterated Filtering Methods for Markov Process Epidemic Models
 
 Author: Theresa Stocks
 
@@ -25,7 +20,7 @@ Preprint: <https://arxiv.org/abs/1712.03058>
 Replication code: <https://github.com/theresasophia/chapter_IFmethods>
 
 
-## Prospective Detection of Outbreaks
+### Prospective Detection of Outbreaks
 
 Authors: Benjamin Allévius and Michael Höhle
 
