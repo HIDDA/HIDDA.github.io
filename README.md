@@ -28,3 +28,12 @@ by Benjamin Allévius and Michael Höhle
 * Preprint: <https://arxiv.org/abs/1711.08960>
 
 * Replication code: <https://github.com/BenjaK/ProspectiveDetectionChapter>
+
+
+### Spatio-Temporal Analysis of Surveillance Data
+
+by Jon Wakefield, Tracy Qi Dong, and Vladimir N. Minin
+
+* Preprint: <https://arxiv.org/abs/1711.00555>
+
+* Replication code & supplements: <https://arxiv.org/src/1711.00555v1/anc>
