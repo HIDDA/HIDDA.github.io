@@ -1,5 +1,5 @@
 This website gathers author-created supplementary material for the
-[*Handbook of Infectious Disease Data Analysis*](https://www.crcpress.com/Handbook-of-Infectious-Disease-Data-Analysis/Held-Hens-ONeill-Wallinga/p/book/9781138626713)
+*Handbook of Infectious Disease Data Analysis*
 published by Chapman & Hall/CRC (2019).
 
 
