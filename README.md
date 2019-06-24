@@ -50,4 +50,4 @@ by Amy K Winter and C. Jessica E. Metcalf
 
 by Emanuele Del Fava and Ziv Shkedy
 
-* Replication code: 
+* Replication code: https://github.com/HIDDA/mixtures
