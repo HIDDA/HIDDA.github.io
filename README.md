@@ -37,3 +37,10 @@ by Jon Wakefield, Tracy Qi Dong, and Vladimir N. Minin
 * Preprint: <https://arxiv.org/abs/1711.00555>
 
 * Replication code & supplements: <https://arxiv.org/src/1711.00555v1/anc>
+
+
+### Persistence of Passive Immunity, Natural Immunity (and Vaccination)
+
+by Amy K Winter and C. Jessica E. Metcalf
+
+* Replication code: https://github.com/HIDDA/persistence
