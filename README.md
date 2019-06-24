@@ -44,3 +44,10 @@ by Jon Wakefield, Tracy Qi Dong, and Vladimir N. Minin
 by Amy K Winter and C. Jessica E. Metcalf
 
 * Replication code: https://github.com/HIDDA/persistence
+
+
+### Mixture Modeling
+
+by Emanuele Del Fava and Ziv Shkedy
+
+* Replication code: 
