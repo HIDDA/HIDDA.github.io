@@ -25,6 +25,12 @@ by Amy K Winter and C. Jessica E. Metcalf
 
 * Replication code: <https://github.com/HIDDA/persistence>
 
+#### Inferring the Time of Infection from Serological Data
+
+by Maciej F. Boni, Kare Mølbak, and Karen A. Krogfelt
+
+* Replication code: https://github.com/maciekboni/2019-HIDDA-Time-Of-Infection
+
 
 #### Mixture Modeling
 
