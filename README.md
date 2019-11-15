@@ -36,7 +36,7 @@ by Maciej F. Boni, Kare Mølbak, and Karen A. Krogfelt
 
 by Emanuele Del Fava and Ziv Shkedy
 
-* Replication code: <https://github.com/HIDDA/mixtures>
+* Replication code: <https://github.com/emanudelfava/sero-bayes-mixture>
 
 
 
